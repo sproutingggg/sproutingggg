@@ -2,6 +2,12 @@ Maybe I'll put it on my hat!
 she/her/it
 
 
+<img width="1200" height="475" alt="image" src="https://github.com/user-attachments/assets/1cba4227-a548-467b-a648-5f1c288bbf72" />
+
+
+
+
+
 <img width="73" height="73" alt="image" src="https://github.com/user-attachments/assets/f2cbc838-13f1-426e-99af-76c114942aee" />
 
 
